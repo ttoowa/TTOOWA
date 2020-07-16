@@ -16,7 +16,7 @@
 - Korean spicy hot chicken 🐔🍗
 - Lying down 🛌
 
-### 🌱 I leaned programming by
+### 🌱 I learned programming by
 - [AcrylicShrimp (Github)](https://github.com/AcrylicShrimp).
 
 <!--
