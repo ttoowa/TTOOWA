@@ -1,4 +1,23 @@
-### Hi there 👋
+#### Hi there 👋
+
+### ✨ Using platform
+- Unity
+- Windows WPF
+- DotNET Core
+
+### ✨ Working category
+- Game client / server
+- Motion programming
+- Windows utility
+
+### 😄 I like...
+- Sandbox games (Minecraft, terraria..) 🎮
+- League of legends 🎮
+- Korean spicy hot chicken 🐔🍗
+- Lying down 🛌
+
+### 🌱 I leaned programming by
+- [AcrylicShrimp (Github)](https://github.com/AcrylicShrimp).
 
 <!--
 **Bgoon/Bgoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
