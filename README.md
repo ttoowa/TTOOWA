@@ -16,9 +16,6 @@
 - Korean spicy hot chicken 🐔🍗
 - Lying down 🛌
 
-### 🌱 I learned programming by
-- [AcrylicShrimp (Github)](https://github.com/AcrylicShrimp).
-
 <!--
 **Bgoon/Bgoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
